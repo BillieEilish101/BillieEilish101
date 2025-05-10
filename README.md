@@ -1,14 +1,15 @@
 <div align="center">
   <h1>🎵 XSBilie Eilish 🎵</h1>
   <p><em>"I'm the bad type, make your mama sad type..."</em></p>
-  <img src="https://i.pinimg.com/736x/57/20/98/572098bb204fb419ec92c2d1aa0b411a.jpg" alt="Billie Eilish Banner" width="80%" style="border-radius: 15px; box-shadow: 0 0 20px #00ffaa;"/>
+  <img src="https://i.pinimg.com/736x/de/ce/ef/deceefb01690dfd3f5073a4928182459.jpg" alt="Billie Eilish Banner" width="80%" style="border-radius: 15px; box-shadow: 0 0 20px #00ffaa;"/>
   <img src="https://i.pinimg.com/736x/ad/24/18/ad241835637fd3030f5b59d706d25e64.jpg" alt="Billie Eilish Background Accent" width="100%" style="opacity: 0.3; margin-top: 10px; border-radius: 10px;"/>
+  <p><strong>Follow Billie Everywhere:</strong> <a href="https://linktr.ee/Billieeilish"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linktree.svg" alt="Linktree" width="32" style="vertical-align: middle;"/></a></p>
 </div>
 
 ---
 
 ## 🌙 About XSBilie Eilish
-Welcome to my GitHub, where the vibe is pure **Billie Eilish**! This profile is all about neon greens, dark aesthetics, and raw creativity. Explore my projects while blasting *Lunch* or *Chihiro*. Let's code with some rebellious energy! 🖤
+Welcome to my GitHub, a tribute to **Billie Eilish** and her iconic vibe! This profile is all about neon greens, dark aesthetics, and pure alt-pop energy. Explore my projects while vibing to *Lunch* or *Wildflower*. Let's code with some Billie energy! 🖤
 
 ---
 
@@ -34,7 +35,8 @@ These are my top Billie tracks! Click to vibe with them on YouTube:
   <a href="https://youtu.be/V1Pl8CzNzCw?si=_0AzCdSsj-LOJGg8">
     <img src="https://img.youtube.com/vi/V1Pl8CzNzCw/mqdefault.jpg" alt="Bury a Friend Video" width="18%" style="margin: 10px; border-radius: 10px; box-shadow: 0 0 15px #00cc88;"/>
   </a>
-  <a href="https://youtu.be/-e7w  <img src="https://img.youtube.com/vi/-e7wiyNO2us/mqdefault.jpg" alt="Chihiro Video" width="18%" style="margin: 10px; border-radius: 10px; box-shadow: 0 0 15px #00aa66;"/>
+  <a href="https://youtu.be/-e7wiyNO2us?si=QLQ0r53_SGW7Ymp7">
+    <img src="https://img.youtube.com/vi/-e7wiyNO2us/mqdefault.jpg" alt="Chihiro Video" width="18%" style="margin: 10px; border-radius: 10px; box-shadow: 0 0 15px #00aa66;"/>
   </a>
   <a href="https://youtu.be/V9PVRfjEBTI?si=BTvBsFCSa7fNOwLh">
     <img src="https://img.youtube.com/vi/V9PVRfjEBTI/mqdefault.jpg" alt="Wildflower Video" width="18%" style="margin: 10px; border-radius: 10px; box-shadow: 0 0 15px #008844;"/>
@@ -44,7 +46,7 @@ These are my top Billie tracks! Click to vibe with them on YouTube:
   </a>
 </div>
 
-> **Vibe Check**: These are my faves! Click the thumbnails to listen while you check out my repos! 🎧
+> **Vibe Check**: Click the thumbnails to listen while you check out my repos! 🎧
 
 ---
 
@@ -58,16 +60,25 @@ Check them out in my repositories! 👇
 
 ---
 
-## 🌟 Connect with Me
+## 🌟 REDES BILLIE LOV
 <div align="center">
-  <a href="https://twitter.com/yourusername">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
+  <a href="https://instagram.com/billieeilish">
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" alt="Instagram" width="32" style="margin: 10px;"/>
   </a>
-  <a href="https://linkedin.com/in/yourusername">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://tiktok.com/@billieeilish">
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/tiktok.svg" alt="TikTok" width="32" style="margin: 10px;"/>
   </a>
-  <a href="https://instagram.com/yourusername">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+  <a href="https://www.youtube.com/billieeilish">
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/youtube.svg" alt="YouTube" width="32" style="margin: 10px;"/>
+  </a>
+  <a href="https://x.com/billieeilish">
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/x.svg" alt="X" width="32" style="margin: 10px;"/>
+  </a>
+  <a href="https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH">
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/spotify.svg" alt="Spotify" width="32" style="margin: 10px;"/>
+  </a>
+  <a href="https://music.apple.com/us/artist/billie-eilish/1065981054">
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/apple_music.svg" alt="Apple Music" width="32" style="margin: 10px;"/>
   </a>
 </div>
 

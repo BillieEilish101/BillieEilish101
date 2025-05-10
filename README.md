@@ -1,13 +1,13 @@
 <div align="center">
   <h1>🎵 Billie Eilish Vibes 🎵</h1>
-  <p><em>"When we all fall asleep, where do we go?"</em></p>
-  <img src="https://i.imgur.com/XXXXXXX.jpg" alt="Billie Eilish Banner" width="80%" style="border-radius: 15px; box-shadow: 0 0 20px rgba(0, 255, 184, 0.5);"/>
+  <p><em>"I'm not your friend or anything, damn..."</em></p>
+  <img src="https://i.pinimg.com/736x/10/61/2b/10612ba6eac55571466e923214e22e99.jpg" alt="Billie Eilish Banner" width="80%" style="border-radius: 15px; box-shadow: 0 0 20px rgba(0, 255, 184, 0.5);"/>
 </div>
 
 ---
 
 ## 🌙 About This Profile
-Welcome to my GitHub, inspired by the one and only **Billie Eilish**! This space is a tribute to her music, aesthetic, and vibe. Expect neon greens, dark vibes, and a touch of rebellion. Explore my projects while vibing to *Bad Guy* or *Everything I Wanted*.
+This GitHub is a tribute to **Billie Eilish**, the queen of alt-pop. Dive into my projects with a vibe of neon greens, dark aesthetics, and raw emotion. Whether you're here for code or just to vibe, turn up *Bury a Friend* and let's create something epic.
 
 ---
 
@@ -15,25 +15,26 @@ Welcome to my GitHub, inspired by the one and only **Billie Eilish**! This space
 
 ### 🖤 Iconic Moments
 <div align="center">
-  <img src="https://i.imgur.com/XXXXXXX.jpg" alt="Billie Eilish Photo 1" width="45%" style="margin: 10px; border-radius: 10px;"/>
-  <img src="https://i.imgur.com/XXXXXXX.jpg" alt="Billie Eilish Photo 2" width="45%" style="margin: 10px; border-radius: 10px;"/>
+  <img src="https://i.pinimg.com/736x/79/8c/9d/798c9d6e572b36d0ddf1967871b583fc.jpg" alt="Billie Eilish Photo 1" width="30%" style="margin: 10px; border-radius: 10px;"/>
+  <img src="https://i.pinimg.com/736x/50/f8/b6/50f8b614f30ce924dc2a1722c941dd02.jpg" alt="Billie Eilish Photo 2" width="30%" style="margin: 10px; border-radius: 10px;"/>
+  <img src="https://assets.pinterest.com/ext/upload/creator_content/creator_content_image/0/78/66/08766f7f2b6c4e4f3b1eb6d58dc8b44c.jpg?07-30-2024" alt="Billie Eilish Photo 3" width="30%" style="margin: 10px; border-radius: 10px;"/>
 </div>
 
 ### 🎥 Favorite Videos
-- [Billie Eilish - Bad Guy (Official Music Video)](https://www.youtube.com/watch?v=DyDfgMOUjCI)
-- [Billie Eilish - When The Party's Over (Live Performance)](https://www.youtube.com/watch?v=pbMwTqkKSps)
+- [Billie Eilish - Therefore I Am (Official Music Video)](https://www.youtube.com/watch?v=RUQl6YcMalg)
+- [Billie Eilish - Happier Than Ever (Live)](https://www.youtube.com/watch?v=2rqubI_9vfE)
 
-> **Pro Tip**: Open these videos in a new tab and let Billie's voice inspire your coding session! 🎧
+> **Vibe Check**: Play these videos in the background while you explore my repos! 🎧
 
 ---
 
 ## 💿 My Billie-Inspired Projects
-Here are some projects I've worked on, each with a touch of Billie's aesthetic:
-- **Neon Portfolio** - A dark-themed portfolio with glowing accents.
-- **Music Visualizer** - A web app that syncs visuals with music, Billie style.
-- **Lyric Generator** - An AI-powered tool to create poetic lyrics.
+Some projects with a touch of Billie's energy:
+- **Neon Dashboard** - A sleek, dark-mode UI for data visualization.
+- **Lyric Weaver** - A tool to generate poetic lyrics inspired by Billie's style.
+- **Mood Visuals** - A web app with visuals that sync to music.
 
-Check them out in my repositories! 👇
+Find them in my repositories! 👇
 
 ---
 
@@ -50,25 +51,6 @@ Check them out in my repositories! 👇
 ---
 
 <div align="center">
-  <p><strong>"I'm the bad guy... duh!"</strong></p>
-  <img src="https://media.giphy.com/media/1g0lB7jBAD2XBOH3oV/giphy.gif" alt="Billie Eilish GIF" width="50%"/>
+  <p><strong>"You should see me in a crown!"</strong></p>
+  <img src="https://media.giphy.com/media/26gsbJ7oKyhGTJ9i/giphy.gif" alt="Billie Eilish GIF" width="50%"/>
 </div>
-
-<style>
-  body {
-    background-color: #121212;
-    color: #ffffff;
-    font-family: 'Arial', sans-serif;
-  }
-  h1, h2, h3 {
-    color: #00ffaa;
-    text-shadow: 0 0 10px #00ffaa;
-  }
-  a {
-    color: #00ffaa;
-    text-decoration: none;
-  }
-  a:hover {
-    text-decoration: underline;
-  }
-</style>
